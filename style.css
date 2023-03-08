@@ -1,0 +1,27 @@
+.person-info {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  background-color: aquamarine;
+  margin-left: 20px;
+  margin: 0 auto;
+}
+ 
+
+.groupeEleveProf {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ensaignant {
+  background-color: yellow;
+  margin-top: 50px;
+  border-radius: 20px;
+  
+}
+
+h1 {
+  text-align: center;
+}
