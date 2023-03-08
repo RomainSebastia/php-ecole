@@ -5,21 +5,17 @@
   font-family: Arial, sans-serif;
   font-size: 14px;
   background-color: aquamarine;
-  margin-left: 20px;
-  margin: 0 auto;
-}
+  margin: 10px auto;
+  }
  
-
 .groupeEleveProf {
   display: flex;
   flex-wrap: wrap;
 }
-
 .ensaignant {
   background-color: yellow;
   margin-top: 50px;
   border-radius: 20px;
-  
 }
 
 h1 {
